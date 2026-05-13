@@ -31,12 +31,12 @@ const GLOSSARY = {
 };
 
 const PPE = [
-  { item: "Chemical-Resistant Gloves", why: "Prevents dermal absorption of pesticides and fertilizers through skin (transcutaneous exposure).", img: "https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=300&q=80", color: "#4ade80" },
-  { item: "Full-Face Respirator", why: "Protects against inhalation of toxic vapors, aerosols, and fine particles (aerosol inhalation exposure).", img: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=300&q=80", color: "#60a5fa" },
-  { item: "Chemical Splash Goggles", why: "Shields eyes from spray drift and accidental splashing of corrosive or irritant agrochemicals.", img: "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?w=300&q=80", color: "#f59e0b" },
-  { item: "Protective Coverall / Suit", why: "Full-body barrier preventing contact of chemicals with skin — required for highly toxic (Class I) pesticides.", img: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=300&q=80", color: "#a78bfa" },
-  { item: "Chemical-Resistant Boots", why: "Prevents absorption through feet when walking in treated fields or handling liquid concentrate.", img: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&q=80", color: "#fb923c" },
-  { item: "Wide-Brim Hat", why: "Reduces UV (ultraviolet radiation) exposure and spray drift landing on head and neck during field work.", img: "https://images.unsplash.com/photo-1521369909029-2afed882baee?w=300&q=80", color: "#34d399" },
+  { item: "Chemical-Resistant Gloves", why: "Prevents dermal absorption of pesticides and fertilizers through skin (transcutaneous exposure).", img: "https://sl.bing.net/eU1MPc1rQoS", color: "#4ade80" },
+  { item: "Full-Face Respirator", why: "Protects against inhalation of toxic vapors, aerosols, and fine particles (aerosol inhalation exposure).", img: "https://sl.bing.net/eWgEwnmQ884", color: "#60a5fa" },
+  { item: "Chemical Splash Goggles", why: "Shields eyes from spray drift and accidental splashing of corrosive or irritant agrochemicals.", img: "https://sl.bing.net/ieYYSboPhZs", color: "#f59e0b" },
+  { item: "Protective Coverall / Suit", why: "Full-body barrier preventing contact of chemicals with skin — required for highly toxic (Class I) pesticides.", img: "https://sl.bing.net/jlkLA7nKGUm", color: "#a78bfa" },
+  { item: "Chemical-Resistant Boots", why: "Prevents absorption through feet when walking in treated fields or handling liquid concentrate.", img: "https://sl.bing.net/fhNkM9MPVrU", color: "#fb923c" },
+  { item: "Wide-Brim Hat", why: "Reduces UV (ultraviolet radiation) exposure and spray drift landing on head and neck during field work.", img: "https://sl.bing.net/i7LszSPp1Ai", color: "#34d399" },
 ];
 
 const FERTILIZERS = [
@@ -91,7 +91,7 @@ const FUNGICIDES = [
   {
     id: 1, name: "Mancozeb 80% WP", sciName: "Manganese ethylenebis(dithiocarbamate) — C₄H₆MnN₂S₄", group: "Multi-site (M3)", mode: "Protectant",
     targets: ["Early Blight (Alternaria solani)", "Late Blight (Phytophthora infestans)", "Downy Mildew (Peronospora spp.)"],
-    crops: ["Potato", "Tomato", "Grape (Vitis vinifera)"],
+    crops: ["Potato", "Tomato", "Gra9757148-5c350d0d3c56?w=300&q=80pe (Vitis vinifera)"],
     rate: "2–2.5 kg/ha", phi: "7 days", resistance: "Very Low — multi-site inhibitor; disrupts multiple enzyme systems simultaneously.",
     explanation: "Mancozeb works by releasing metal ions (Mn²⁺, Zn²⁺) that bind to and inhibit thiol (-SH) groups in multiple fungal enzymes, making resistance development extremely difficult.",
     img: "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&q=80",
